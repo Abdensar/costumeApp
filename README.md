@@ -1,7 +1,10 @@
 # Costume Rental Android Application
 
 
-Uploading screen-recording-Costumeapp.mp4…
+
+
+https://github.com/user-attachments/assets/913cb40e-0cb8-408b-a474-de6022b8bc05
+
 
 
 A complete Android mobile application for costume rental management with modern UI/UX, clean architecture, and seamless API integration.
