@@ -1,0 +1,118 @@
+<resources>
+    <string name="app_name">Costume Rental</string>
+
+    <!-- Authentication -->
+    <string name="welcome_back">Welcome Back</string>
+    <string name="login_to_account">Login to your account</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="dont_have_account">Don\'t have an account? Register</string>
+    <string name="already_have_account">Already have an account? Login</string>
+    <string name="create_account">Create Account</string>
+    <string name="join_us">Join us today</string>
+    <string name="full_name">Full Name</string>
+    <string name="phone">Phone Number</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="logout">Logout</string>
+
+    <!-- Navigation -->
+    <string name="nav_home">Home</string>
+    <string name="nav_browse">Browse</string>
+    <string name="nav_rentals">My Rentals</string>
+    <string name="nav_profile">Profile</string>
+
+    <!-- Home -->
+    <string name="welcome">Welcome, %1$s!</string>
+    <string name="search_costumes">Search costumes...</string>
+    <string name="featured_costumes">Featured Costumes</string>
+    <string name="popular_costumes">Popular Costumes</string>
+    <string name="view_all">View All</string>
+    <string name="categories">Categories</string>
+
+    <!-- Browse -->
+    <string name="filter">Filter</string>
+    <string name="sort">Sort</string>
+    <string name="apply_filters">Apply Filters</string>
+    <string name="reset_filters">Reset</string>
+    <string name="price_range">Price Range</string>
+    <string name="size">Size</string>
+    <string name="availability">Availability</string>
+    <string name="available_only">Available Only</string>
+
+    <!-- Costume Detail -->
+    <string name="book_now">Book Now</string>
+    <string name="select_dates">Select Dates</string>
+    <string name="start_date">Start Date</string>
+    <string name="end_date">End Date</string>
+    <string name="price_per_day">Price per day</string>
+    <string name="total_price">Total Price</string>
+    <string name="days">%1$d days</string>
+    <string name="description">Description</string>
+    <string name="available">Available</string>
+    <string name="not_available">Not Available</string>
+
+    <!-- Rentals -->
+    <string name="my_rentals">My Rentals</string>
+    <string name="all">All</string>
+    <string name="pending">Pending</string>
+    <string name="confirmed">Confirmed</string>
+    <string name="cancelled">Cancelled</string>
+    <string name="returned">Returned</string>
+    <string name="rental_details">Rental Details</string>
+    <string name="booking_id">Booking ID</string>
+    <string name="status">Status</string>
+    <string name="cancel_booking">Cancel Booking</string>
+    <string name="qr_code">QR Code</string>
+    <string name="save_qr">Save QR Code</string>
+    <string name="share_qr">Share QR Code</string>
+
+    <!-- Profile -->
+    <string name="edit_profile">Edit Profile</string>
+    <string name="save_changes">Save Changes</string>
+    <string name="member_since">Member since %1$s</string>
+    <string name="rental_statistics">Rental Statistics</string>
+    <string name="total_bookings">Total Bookings</string>
+    <string name="active_rentals">Active Rentals</string>
+    <string name="total_spent">Total Spent</string>
+    <string name="settings">Settings</string>
+    <string name="change_password">Change Password</string>
+    <string name="current_password">Current Password</string>
+    <string name="new_password">New Password</string>
+
+    <!-- Messages -->
+    <string name="loading">Loading...</string>
+    <string name="error_occurred">An error occurred</string>
+    <string name="no_internet">No internet connection</string>
+    <string name="try_again">Try Again</string>
+    <string name="success">Success</string>
+    <string name="login_successful">Login successful</string>
+    <string name="registration_successful">Registration successful</string>
+    <string name="booking_successful">Booking successful</string>
+    <string name="profile_updated">Profile updated successfully</string>
+    <string name="booking_cancelled">Booking cancelled</string>
+
+    <!-- Validation -->
+    <string name="field_required">This field is required</string>
+    <string name="invalid_email">Invalid email address</string>
+    <string name="password_too_short">Password must be at least 6 characters</string>
+    <string name="passwords_dont_match">Passwords don\'t match</string>
+    <string name="invalid_phone">Invalid phone number</string>
+    <string name="select_start_date">Please select start date</string>
+    <string name="select_end_date">Please select end date</string>
+    <string name="invalid_date_range">End date must be after start date</string>
+
+    <!-- Empty States -->
+    <string name="no_costumes_found">No costumes found</string>
+    <string name="no_rentals">You don\'t have any rentals yet</string>
+    <string name="start_browsing">Start browsing costumes</string>
+
+    <!-- Dialogs -->
+    <string name="confirm">Confirm</string>
+    <string name="cancel">Cancel</string>
+    <string name="confirm_booking">Confirm Booking</string>
+    <string name="booking_confirmation_message">Are you sure you want to book this costume from %1$s to %2$s for %3$s?</string>
+    <string name="confirm_cancel_booking">Are you sure you want to cancel this booking?</string>
+    <string name="confirm_logout">Are you sure you want to logout?</string>
+</resources>
